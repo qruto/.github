@@ -1,8 +1,8 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="../images/logo-dark.png">
-        <source media="(prefers-color-scheme: light)" srcset="../images/logo-light.png">
-        <img alt="Qruto Logo" src="../images/logo-light.png" width="400">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qruto/.github/main/images/logo-light.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qruto/.github/main/images/logo-dark.svg">
+        <img alt="Qruto Logo" src="https://raw.githubusercontent.com/qruto/.github/main/images/logo-light.svg" width="400">
     </picture>
 </p>
 
