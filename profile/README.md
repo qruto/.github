@@ -8,4 +8,6 @@
 
 # About Qruto
 
-Qruto - the coolest thing with WOW effect.
+**Qruto** – a combination of focus, prioritization, automation, default behavior, a compromise between standardization and customization which creates a successful solution.
+
+We are trying to create solutions with love that you will enjoy 🥰
