@@ -8,6 +8,4 @@
 
 # About Qruto
 
-**Qruto** – a combination of focus, prioritization, automation, default behavior, a compromise between standardization and customization which creates a successful solution.
-
-We are trying to create solutions with love that you will enjoy 🥰
+**Qruto** – a combination of focusing on the target, prioritizing the importance of details, automating everything that can be automated, suitable default behavior and compromise between standardization and customization which creates a solution that you will enjoy 🥰
