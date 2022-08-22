@@ -16,8 +16,12 @@
 
 🗼 Check out fresh release of [Laravel Wave](https://github.com/qruto/laravel-wave) which opens up the possibility of using a [Laravel Broadcasting](https://laravel.com/docs/9.x/broadcasting) system throug HTTP with [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events).
 
-## [Raycast](https://www.raycast.com): [Color Casket](https://www.raycast.com/slava.razum/color-casket)
+## [Raycast Color Casket](https://www.raycast.com/slava.razum/color-casket)
 
 🎨 [Color Casket](https://www.raycast.com/slava.razum/color-casket) gives you an eyedropper,
 color renderer and color history directly in the Raycast app.
+
+## [Figma Pictured iPhone & MacBook Mockups](https://www.figma.com/community/file/1109599764481353401)
+
+📱💻 Create presentable mockups with real-life photos.
 
