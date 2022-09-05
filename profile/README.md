@@ -20,7 +20,7 @@ Since of February 24, unfortunately I haven't any commercial work, permanent liv
 
 I would be very grateful for mentions or just a sincere "thank you" 🤝
 
-[Sponsoring on Ko-Fi with PayPal or Credit Card](https://ko-fi.com/slavarazum).
+💳 [Sponsoring directly to my savings jar](https://send.monobank.ua/jar/3eG4Vafvzq) with **card** or **Apple Pay**/**Google Pay**.
 
 # Releases
 
