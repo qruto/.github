@@ -34,6 +34,6 @@ I would be very grateful for mentions or just a sincere "thank you" 🤝
 🎨 [Color Casket](https://www.raycast.com/slava.razum/color-casket) gives you an eyedropper,
 color renderer and color history directly in the Raycast app.
 
-## [Figma Pictured iPhone & MacBook Mockups](https://www.figma.com/community/file/1109599764481353401)
+## [Device Mockups in Real Life](https://www.figma.com/community/file/1109599764481353401)
 
 📱💻 Create presentable mockups with real-life photos.
