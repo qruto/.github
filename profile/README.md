@@ -34,6 +34,6 @@ Since of February 24, unfortunately I haven't any commercial work, permanent liv
 [GitHub Sponsorships profile](https://github.com/sponsors/qruto) is ready! There you can find current work, future plans, goals and dreams...
 Your stars make me happier each day ❤️ ⭐ Sponsorship will enable us to live more peacefully and continue to work on useful solutions for you.
 
-I would be very grateful for mentions or just a sincere "thank you" 🤝
+I would be very grateful for mentions or just a sincere "thank you".
 
-💳 [Sponsoring directly to my savings jar](https://send.monobank.ua/jar/3eG4Vafvzq) with **card** or **Apple Pay**/**Google Pay**.
+💳 [Sponsoring directly to savings jar](https://send.monobank.ua/jar/3eG4Vafvzq) with **card** or **Apple Pay**/**Google Pay**.
