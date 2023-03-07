@@ -12,9 +12,15 @@
 
 # Releases
 
-## [Laravel Wave](https://github.com/qruto/laravel-wave)
+## [Flora for Laravel](https://github.com/qruto/laravel-flora) 🆕
 
-🗼 Check out fresh release of [Laravel Wave](https://github.com/qruto/laravel-wave) which opens up the possibility of using a [Laravel Broadcasting](https://laravel.com/docs/9.x/broadcasting) system throug HTTP with [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events).
+🌿 Check out fresh release of [Flora](https://github.com/qruto/laravel-flora). Install and update Laravel application with single command.
+
+Run `php artisan update` or `php artisan install` for prepearing to launch.
+
+## [Wave for Laravel](https://github.com/qruto/laravel-wave)
+
+🗼 [Wave](https://github.com/qruto/laravel-wave) opens up the possibility of using a [Laravel Broadcasting](https://laravel.com/docs/9.x/broadcasting) system throug HTTP with [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events).
 
 ## [Raycast Color Casket](https://www.raycast.com/slava.razum/color-casket)
 
