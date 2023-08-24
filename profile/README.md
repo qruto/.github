@@ -14,7 +14,7 @@
 
 ## [Flora for Laravel](https://github.com/qruto/laravel-flora) 🆕
 
-🌿 Check out fresh release of [Flora](https://github.com/qruto/laravel-flora). Install and update Laravel application with single command.
+🍀 Check out fresh release of [Flora](https://github.com/qruto/laravel-flora). Install and update Laravel application with single command.
 
 Run `php artisan update` or `php artisan install` for prepearing to launch.
 
