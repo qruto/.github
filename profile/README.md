@@ -8,7 +8,7 @@
 
 # About Qruto
 
-**Qruto** – a combination of focusing on the goal, prioritizing the importance of details, automating everything that can be automated setup suitable default behavior and compromise between standardization and customization which creates a solution that you will enjoy 🥰
+**Qruto** – a combination of focusing on the goal, prioritizing the importance of details, automating everything that can be automated, setting up reasonable default behavior, finding a compromise between standardization and customization which creates a solution that you will enjoy 🥰
 
 # Releases
 
