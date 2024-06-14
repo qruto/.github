@@ -2,7 +2,7 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qruto/.github/main/images/qruto-full-logo-dark.png">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qruto/.github/main/images/qruto-full-logo-light.png">
-        <img alt="Qruto Logo" src="https://raw.githubusercontent.com/qruto/.github/main/images/qruto-full-logo-light.png" width="400">
+        <img alt="Qruto Logo" src="https://raw.githubusercontent.com/qruto/.github/main/images/qruto-full-logo-light.png">
     </picture>
 </p>
 
